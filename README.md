@@ -10,9 +10,13 @@ This program was used to calculate the optimal route to visit 18 countries in Eu
 <div align="middle">
 <img src="europe.png" height="360">
 <br/>
-<span style="font-size:0.75em;"><i>Netherlands - Belgium - Luxembourg - France - Switzerland - Germany - Liechtenstein -
+<sub><i>
+Map data: GeoBasis-DE/BKG, Google, Inst. Geogr. Nacional
+<br/>
+Netherlands - Belgium - Luxembourg - France - Switzerland - Germany - Liechtenstein -
 Austria - Italy - Slovenia - Croatia - Bosnia and Hercegovina - Serbia - Hungary -
-Romania - Slovakia - Czech Republic - Poland</i></span>
+Romania - Slovakia - Czechia - Poland
+</i></sub>
 </div>
 <br/>
 
@@ -21,10 +25,14 @@ The optimal route to visit 23 US states in 24 hours:
 <div align="middle">
 <img src="usa.png" height="360">
 <br/>
-<span style="font-size:0.75em;"><i>Vermont - New Hampshire -
+<sub><i>
+Map data: Google, INEGI
+<br/>
+Vermont - New Hampshire -
 Maine - Massachusetts - Connecticut - Rhode Island - New York - New Jersey - Pennsylvania -
 Delaware - Maryland - Virginia - West Virginia - North Carolina - South Carolina -
-Georgia - Alabama - Mississippi - Tennessee - Arkansas - Missouri - Illinois - Kentucky</i></span>
+Georgia - Alabama - Mississippi - Tennessee - Arkansas - Missouri - Illinois - Kentucky
+</i></sub>
 </div>
 <br/>
 
@@ -33,6 +41,10 @@ the island of Gotland) in 24 hours:
 
 <div align="middle">
 <img src="sweden.png" height="360">
+<br/>
+<sub><i>
+Map data: Google
+</i></sub>
 </div>
 <br/>
 
@@ -47,6 +59,10 @@ Example of European border crossings:
 
 <div align="middle">
 <img src="bordercrossings.png" height="360">
+<br/>
+<sub><i>
+Map data: GeoBasis-DE/BKG, Google, Inst. Geogr. Nacional, Mapa GISrael, ORION-ME
+</i></sub>
 </div>
 <br/>
 
